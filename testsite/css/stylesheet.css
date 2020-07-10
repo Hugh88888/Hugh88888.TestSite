@@ -53,9 +53,9 @@ header {
     background-color: rgba(255, 255, 255, 0.3);
 }
 
-.menu-icon {
+/* .menu-icon {
     display: none;
-}
+} */
 
 .top-wrapper {
     background: linear-gradient(-45deg, rgba(246, 255, 0, .7), rgba(255, 0, 161, .7)),
